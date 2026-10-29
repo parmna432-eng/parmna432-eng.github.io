@@ -1,0 +1,16 @@
+{
+  "name": "شروة — متاجر العمارة",
+  "short_name": "شروة",
+  "description": "متاجر العمارة بتطبيق واحد: ادفع عند الاستلام، افحص قبل ما تدفع، وتوصيل موحّد.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F8F6",
+  "theme_color": "#0F5C4D",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
